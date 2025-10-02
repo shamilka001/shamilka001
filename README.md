@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/shamilka-peiris-447306242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamilka-peiris-447306242" height="30" width="40" /></a>
 <a href="https://instagram.com/shamilka_a_peiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shamilka_a_peiris" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@talkwithshami7961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@talkwithshami7961" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Shamilka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shamilka" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/Shamilka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shamilka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
